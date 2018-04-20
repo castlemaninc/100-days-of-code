@@ -90,6 +90,6 @@ I made progress on re-writing my Front End Developer résumé.
 
 **Thoughts**:
 
-**Link to work**: [gulp & Sass](https://castlemaninc.github.io/flexbox-visualizer/)
+**Link to work**: 
 
 

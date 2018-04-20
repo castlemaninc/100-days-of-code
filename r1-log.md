@@ -1,19 +1,21 @@
 # #100DaysOfCode Log - Round 1 - Bryan Castleman
 
-## 100 Day Goal
-I want to build a strong case for myself to become employed as a Front End Developer. 
+## My personal 100 Day Goal 
+#### (This was added on April 20, 2018 to give myself some structure for the remaining 91 days.)
+I want to build a strong case for myself to become employed as a Front End Developer, strengthen my portfolio, and solidify my understanding of certain skills.
 
-#### I want to grow and solidy my understanding of the following things: 
+#### I want to grow and solidify my understanding of the following things: 
 1. CSS3 (CSS Grid, Flexbox, variables, etc.)
 2. javaScript / jQuery
 3. CSS Preprocessing 
 4. Task Runner Experience (Gulp) 
 5. Responsive Design
 6. Node.js and NPM packages
-7. CSS Animations and javascript GSAP (Greensock Animation Platform)
+7. Front-end templating (Handlebars or Pug)
 8. UI/UX 
 9. React
 10. JSON, AJAX, lazy-loading concepts and implementation methods
+11. CSS Animations and javascript GSAP (Greensock Animation Platform)
 
 ### Day 1: April 11, 2018 
 

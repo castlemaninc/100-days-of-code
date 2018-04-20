@@ -1,6 +1,6 @@
 # #100DaysOfCode Log - Round 1 - Bryan Castleman
 
-## My personal 100 Day Goal 
+### My personal 100 Day Goal 
 #### (This was added on April 20, 2018 to give myself some structure for the remaining 91 days.)
 I want to build a strong case for myself to become employed as a Front End Developer, strengthen my portfolio, and solidify my understanding of certain skills.
 
@@ -60,27 +60,29 @@ I want to build a strong case for myself to become employed as a Front End Devel
 
 ### Day 6: April 17, 2018
 
-**Today's Progress**: 
+**Today's Progress**: Realizing that I need to learn the JavaScript reduce() method. 
 
-**Thoughts**:
+I made progress on re-writing my Front End Developer résumé. 
 
-**Link to work**: [gulp & Sass](https://castlemaninc.github.io/flexbox-visualizer/)
+**Thoughts**: I realized that I had already solved the Map the Debris algorithm challenge back in October 2017, so I worked on another one called [Exact Change](https://www.freecodecamp.org/challenges/exact-change). After struggling to find a solution to the Advanced Algorithm challenge, I read the hints provided. I realized that the solution to the problem used the reduce method which I don't fully understand. I really want to solve the problem for myself, and I will revisit this to complete on another day.
+
+**Link to challenge**: [Algorithm Challenge: Map the Debris](https://www.freecodecamp.org/challenges/map-the-debris)
 
 ### Day 7: April 18, 2018
 
-**Today's Progress**: 
+**Today's Progress**: I learned how to use the JavaScript array [reduce()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce) method. 
 
-**Thoughts**:
-
-**Link to work**: [gulp & Sass](https://castlemaninc.github.io/flexbox-visualizer/)
+**Thoughts**: Learning 'higher-order functions' such as filter, map, and reduce method is a major step forward for me as a JavaScript developer. I am going to incorporate these into my code as much as possible. 
 
 ### Day 8: April 19, 2018
 
-**Today's Progress**: 
+**Today's Progress**: Continuing to learn ReactJS, and about passing static props from a parent to a child.   
 
-**Thoughts**:
+**Thoughts**: I'm able to build a responsive portfolio website with HTML, CSS, JavaScript, and jQuery. However, rebuilding the same thing in ReactJS is very different process. 
+- In order to utilize Font Awesome an npm package is required. 
+- I also need to be able to replace animations created by jQuery.
 
-**Link to work**: [gulp & Sass](https://castlemaninc.github.io/flexbox-visualizer/)
+**Link to work**: [Portfolio project being built in React](https://github.com/castlemaninc/react-portfolio)
 
 ### Day 9: April 20, 2018
 

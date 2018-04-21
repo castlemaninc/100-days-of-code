@@ -5,7 +5,7 @@
 
 #### I want to grow and solidify my understanding of the following things: 
 1. CSS3 (CSS Grid, Flexbox, variables, etc.)
-2. javaScript / jQuery
+2. javaScript ES6 / jQuery
 3. CSS Preprocessing 
 4. Task Runner Experience (Gulp) 
 5. Responsive Design
@@ -18,6 +18,8 @@
 
 ### Day 9: April 20, 2018
 
+**Focus**: (Goal 9) React
+
 **Today's Progress**: 
 
 **Thoughts**:
@@ -25,6 +27,8 @@
 **Link to work**:
 
 ### Day 8: April 19, 2018
+
+**Focus**: (Goal 9) React
 
 **Today's Progress**: Continuing to learn ReactJS, and about passing static props from a parent to a child.   
 
@@ -36,11 +40,15 @@
 
 ### Day 7: April 18, 2018
 
+**Focus**: (Goal #2) JavaScript
+
 **Today's Progress**: I learned how to use the JavaScript array [reduce()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce) method. 
 
 **Thoughts**: Learning 'higher-order functions' such as filter, map, and reduce method is a major step forward for me as a JavaScript developer. I am going to incorporate these into my code as much as possible.
 
 ### Day 6: April 17, 2018
+
+**Focus**: (Goal #2) JavaScript
 
 **Today's Progress**: Realizing that I need to learn the JavaScript reduce() method. 
 
@@ -52,6 +60,8 @@ I made progress on re-writing my Front End Developer résumé.
 
 ### Day 5: April 16, 2018
 
+**Focus**: (Goals #2 & #11) JavaScript & GSAP (Greensock Animation Platform)
+
 **Today's Progress**: I got GSAP set up in my project, and animated an element on the screen. 
 
 **Thoughts**: I watched [Getting Started with GSAP (Greensock Animation Platform)](https://greensock.com/get-started-js) and was able to get GSAP working locally. I spent most of my day trying to figure out if I could animate or tween Flexbox property changes. I was unsuccesful in that regard. I plan to incorporate GSAP into my coding repertoire.
@@ -59,6 +69,8 @@ I made progress on re-writing my Front End Developer résumé.
 **Link to work**: (https://github.com/castlemaninc/gsap-1)
 
 ### Day 4: April 14, 2018
+
+**Focus**: (Goal #1) CSS3 (CSS Grid, Flexbox, variables, etc.)
 
 **Today's Progress**: I gained a deeper understanding of flexbox properties by building something that demonstrates them visually.  
 
@@ -68,6 +80,8 @@ I made progress on re-writing my Front End Developer résumé.
 
 ### Day 3: April 13, 2018
 
+**Focus**: (Goals #3 & #4) Sass & Gulp.js
+
 **Today's Progress**: I wrote and used to gulp tasks succesfully. I was able to compile SCSS to CSS and have file changes automatically compiled with every file save. 
 
 **Thoughts**: I am happy about learning gulp. This was a mini milestone in my personal goals to become an employed Front End Developer. I was able to write more Sass too. 
@@ -76,6 +90,8 @@ I made progress on re-writing my Front End Developer résumé.
 
 ### Day 2: April 12, 2018
 
+**Focus**: (Goal #1) CSS3
+
 **Today's Progress**: I learned more about the CSS box-shadow property and positioning elements to make use of the Z-axis with z-index. 
 
 **Thoughts**: After watching videos on Material Design. I made a quick project to practice the CSS box-shadow, CSS z-index property, and element positioning. Here is the Github repo.
@@ -83,9 +99,11 @@ I made progress on re-writing my Front End Developer résumé.
 **Links to work**: [github repo](https://castlemaninc.github.io/googly/)
 				   [Googly](https://castlemaninc.github.io/googly/)
 
-### Day 1: April 11, 2018 
+### Day 1: April 11, 2018
 
-**Today's Progress**: I wrote Sass and compiled it to CSS. 
+**Focus**: (Goal #2) CSS Preprocesser
+
+**Today's Progress**: I wrote my first Sass and compiled it to CSS. 
 
 **Thoughts:** I wanted to get some experience writing SCSS and compiling it to CSS. I also wanted to practice CSS Animation. I compiled with a command every time I made changes. I would like to try gulp to take care of this for me. 
 

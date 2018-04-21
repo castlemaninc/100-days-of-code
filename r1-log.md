@@ -20,11 +20,11 @@
 
 **Focus**: (Goal #9) React
 
-**Today's Progress**: 
+**Today's Progress**: I began to set up state in my latest React project.
 
-**Thoughts**:
+**Thoughts**: Throughout this building process I'm questioning how I can better diagram out the entire application on paper. 
 
-**Link to work**:
+**Link to work**: [Github Repo: react-portfolio](https://github.com/castlemaninc/react-portfolio)
 
 ### Day 8: April 19, 2018
 

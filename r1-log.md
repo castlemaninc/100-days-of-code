@@ -12,13 +12,13 @@
 6. Node.js and NPM packages
 7. Front-end templating (Handlebars or Pug)
 8. UI/UX 
-9. React
+9. React / Redux 
 10. JSON, AJAX, lazy-loading concepts and implementation methods
 11. CSS Animations and javascript GSAP (Greensock Animation Platform)
 
 ### Day 9: April 20, 2018
 
-**Focus**: (Goal 9) React
+**Focus**: (Goal #9) React
 
 **Today's Progress**: 
 
@@ -28,7 +28,7 @@
 
 ### Day 8: April 19, 2018
 
-**Focus**: (Goal 9) React
+**Focus**: (Goal #9) React
 
 **Today's Progress**: Continuing to learn ReactJS, and about passing static props from a parent to a child.   
 

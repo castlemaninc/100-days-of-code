@@ -16,6 +16,19 @@
 10. JSON, AJAX, lazy-loading concepts and implementation methods
 11. CSS Animations and javascript GSAP (Greensock Animation Platform)
 
+### Day 10: April 21, 2018
+
+**Focus**: (Goal #2, #5, #9) JavaScript & HTML, Flexbox, and React 
+
+**Today's Progress**: 
+1. I solved an algorithm challege on Codewars using Array.prototype.reduce().
+2. I continued working with Flexbox properties in a responsive portfolio layout by adding new pages.
+3. I cloned a friend's github repo, to see if I can help solve her problems in her React application.  
+
+**Thoughts**: I am happy to finally implement the reduce method. I am trying to understand the philosophy behind building React applications vs. web applications built in other ways. I spent a lot of time today diagramming the component structure of the React version of the responsive portfolio. 
+
+**Link to work**: [Github Repo: portfolio-responsive](https://github.com/castlemaninc/portfolio-responsive)
+
 ### Day 9: April 20, 2018
 
 **Focus**: (Goal #9) React

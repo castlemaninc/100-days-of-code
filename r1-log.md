@@ -15,6 +15,17 @@
 9. React / Redux 
 10. JSON, AJAX, lazy-loading concepts and implementation methods
 11. CSS Animations and javascript GSAP (Greensock Animation Platform)
+12. Wordpress Development & PHP
+
+### Day 11: April 23, 2018
+
+**Focus**: (Goal #12) Wordpress Development & PHP 
+
+**Today's Progress**: Learned how to write PHP variables, functions, and loops. I'm also learning how to integrate my own layouts in HTML, CSS, and JavaScript into Wordpress. 
+
+**Thoughts**: I'm hoping to go through this video series quickly so that I can build this site fast and move on to another project in React or Vue. 
+
+**Link to work**: [Github Repo: portfolio-responsive](https://github.com/castlemaninc/portfolio-responsive)
 
 ### Day 10: April 21, 2018
 

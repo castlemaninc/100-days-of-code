@@ -17,6 +17,23 @@
 11. CSS Animations and javascript GSAP (Greensock Animation Platform)
 12. Wordpress Development & PHP
 
+### Day 13: April 25, 2018
+
+**Focus**: (Goal #4 Gulp, Goal #3 Sass, Goal #8 UI/UX , #12 WordPress Development & PHP)  
+
+**Today's Progress**: Have a basic outline of the new website established and some components established. 
+
+**Thoughts**: Trying to design a new UI/UX for a Dance Studio website. So far most of the work has been in pencil and paper, organizing the disarray of the current website. The rest of the time has been studying Wordpress development and PHP so I can add a custom theme. 
+
+### Day 12: April 24, 2018
+
+**Focus**: (Goal #13 JavaScript)  
+
+**Today's Progress**: I reviewed the filter, map, and reduce JavaScript methods. I also spent some time reading about aspects of a Free Code Camp Advanced Algorithm challenge called 'No Repeat'.   
+
+**Thoughts**: 
+
+
 ### Day 11: April 23, 2018
 
 **Focus**: (Goal #12) Wordpress Development & PHP 

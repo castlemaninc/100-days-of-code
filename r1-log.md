@@ -17,6 +17,17 @@
 11. CSS Animations and javascript GSAP (Greensock Animation Platform)
 12. Wordpress Development & PHP
 
+### Day 14: April 26, 2018
+
+**Focus**: (Goal #1 CSS Grid and Flexbox,#3 Sass, #5 Responsive Design)  
+
+**Today's Progress**: Started building the dance studio layout in HTML and CSS. Used Sass partials for the first time and changed the Gulp task to compile all scss files into one CSS file.
+
+**Thoughts**: Building projects for real clients offers more real world challenges, and will be better for my portfolio since I have very little experience on my resume. 
+
+**Link to work**: [LonDance Repo]https://github.com/castlemaninc/lon-dance
+
+
 ### Day 13: April 25, 2018
 
 **Focus**: (Goal #4 Gulp, Goal #3 Sass, Goal #8 UI/UX , #12 WordPress Development & PHP)  

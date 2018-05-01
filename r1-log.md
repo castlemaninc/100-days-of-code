@@ -17,6 +17,24 @@
 11. CSS Animations and javascript GSAP (Greensock Animation Platform)
 12. Wordpress Development & PHP
 
+### Day 17: April 28, 2018
+
+**Focus**: (Goal #1 CSS, Goal #2 jQuery)
+
+**Today's Progress**: Added more styling, a new color theme, and some actions with jQuery. I'm getting faster with writing functions that animate scrolling.    
+
+**Link to work**: [LonDance Github Repo]https://github.com/castlemaninc/lon-dance
+
+### Day 16: April 28, 2018
+
+**Focus**: (Goal #1 Flexbox, Goal #3 CSS Preprocessing)
+
+**Today's Progress**: I built a large portion of the responsive layout which will be translated into a custom theme in Wordpress.  
+
+**Thoughts**: Flexbox and CSS Grid are amazing layout tools. 
+
+**Link to work**: [LonDance Github Repo]https://github.com/castlemaninc/lon-dance 
+
 ### Day 16: April 27, 2018
 
 **Focus**: (Goal #1 Flexbox, Goal #3 CSS Preprocessing)

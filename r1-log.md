@@ -17,7 +17,7 @@
 11. CSS Animations and javascript GSAP (Greensock Animation Platform)
 12. Wordpress Development & PHP
 
-### Day 17: April 28, 2018
+### Day 18: April 28, 2018
 
 **Focus**: (Goal #1 CSS, Goal #2 jQuery)
 
@@ -25,7 +25,7 @@
 
 **Link to work**: [LonDance Github Repo]https://github.com/castlemaninc/lon-dance
 
-### Day 16: April 28, 2018
+### Day 17: April 28, 2018
 
 **Focus**: (Goal #1 Flexbox, Goal #3 CSS Preprocessing)
 

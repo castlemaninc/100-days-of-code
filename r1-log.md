@@ -17,6 +17,16 @@
 11. CSS Animations and javascript GSAP (Greensock Animation Platform)
 12. Wordpress Development & PHP
 
+### Day 19: April 28, 2018
+
+**Focus**: (Goal #5 Responsive Design, Goal #1 CSS)
+
+**Today's Progress**: I added my first breakpoint to the layout with CSS Media Queries, and added more content to the website.
+
+**Thoughts**: I need to enhance this layout with photos, .svg files, and some animation.       
+
+**Link to work**: [LonDance Github Repo]https://github.com/castlemaninc/lon-dance
+
 ### Day 18: April 28, 2018
 
 **Focus**: (Goal #1 CSS, Goal #2 jQuery)

@@ -17,7 +17,15 @@
 11. CSS Animations and javascript GSAP (Greensock Animation Platform)
 12. Wordpress Development & PHP
 
-### Day 19: April 28, 2018
+### Day 21: May 2, 2018
+
+**Focus**: (Goal #2 ES6, Goal #9 React)
+
+**Today's Progress**: Set up new React project repo on Github and did some coding challenges in The Complete React Web Developer Course         
+
+**Link to work**: [Traditions Github Repo]https://github.com/castlemaninc/traditions
+
+### Day 19: May 1, 2018
 
 **Focus**: (Goal #5 Responsive Design, Goal #1 CSS)
 
@@ -27,7 +35,8 @@
 
 **Link to work**: [LonDance Github Repo]https://github.com/castlemaninc/lon-dance
 
-### Day 18: April 28, 2018
+
+### Day 18: April 30, 2018
 
 **Focus**: (Goal #1 CSS, Goal #2 jQuery)
 

@@ -17,7 +17,15 @@
 11. CSS Animations and javascript GSAP (Greensock Animation Platform)
 12. Wordpress Development & PHP
 
-### Day 21: May 2, 2018
+### Day 21: May 3, 2018
+
+**Focus**: (Goal #2 ES6, Goal #9 React, Goal #5 Responsive Design)
+
+**Today's Progress**: Today's time was split between the LonDance project adding some scrolling animation and practicing writing ES6 code in ReactJS for a barbershop app.  
+
+**Link to work**: [LonDance Github Repo]https://github.com/castlemaninc/lon-dance
+
+### Day 20: May 2, 2018
 
 **Focus**: (Goal #2 ES6, Goal #9 React)
 
